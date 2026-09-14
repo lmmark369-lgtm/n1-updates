@@ -1,6 +1,1 @@
-﻿{
-    "sha256":  "601cee896a789291833bb129631b75839dd367390def5d4e013d60f52a185013",
-    "url":  "https://github.com/lmmark369-lgtm/n1-updates/raw/main/pkg.tgz",
-    "version":  "1.0.0",
-    "notes":  "v1.0.0 初始包（VPN wizard + 備份套件 + 更新系統）"
-}
+{"version":"1.0.1","url":"https://github.com/lmmark369-lgtm/n1-updates/raw/main/pkg.tgz","notes":"v1.0.1 (4 links: TCP/XHTTP x domain/publicIP + stable XHTTP mode + BOM fix)","sha256":"baa240936d41981300ac7af9eb135dbfba570d59d4370b6a4208515bc7dadb82"}
